@@ -29,6 +29,5 @@ python main.py
 ## Datasets
 
 ### dataset
-You can get the INSULATOR FAULTSDETECTION dataset by filling out the form at:
-https://universe.roboflow.com/project-vmgqx/insulator-faults-detection
-
+You can get the dataset by filling out the form at:
+https://drive.google.com/drive/folders/14Ke7UyEf2XzYvKQIFGhNuE1A1cHjKDXc?usp=sharing
