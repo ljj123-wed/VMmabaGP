@@ -4,11 +4,16 @@
 ## Setup
 
 ### Getting Started
+Other requirements:
+- Linux
+- NVIDIA GPU
+- PyTorch 1.12+
+- CUDA 11.6+
 Installation (to install pytorch cf. https://pytorch.org/get-started/locally/):
 ```shell
-conda create -n npsr python=3.11
-conda activate npsr
-pip install torch torchvision torchaudio
+cd selective_scan
+pip install . 
+pip install torch torchvision torchaudio mamba_ssm
 ```
 
 ## Training
